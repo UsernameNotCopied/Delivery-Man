@@ -31,20 +31,12 @@
 ## ΠΕΡΙΕΧΟΜΕΝΑ
 
 1. [Άδεια Χρήσης](#1-άδεια-χρήσης)
-
 2. [Περιγραφή Λογισμικού](#2-περιγραφή-λογισμικού)
-
 3. [Περιβάλλον Ανάπτυξης](#3-περιβάλλον-ανάπτυξης)
-
-4. [Οδηγίες Μεταγλώττισης](#4-οδηγίες-μεταγλώττισης)
-
-5. [Οδηγίες Εγκατάστασης](#5-οδηγίες-εγκατάστασης)
-
-6. [Οδηγίες Εκτέλεσης](#6-οδηγίες-εκτέλεσης)
-
-7. [Εγχειρίδιο Χρήσης](#7-εγχειρίδιο-χρήσης)
-
-8. [Αναφορές](#8-αναφορές)
+4. [Οδηγίες Εγκατάστασης/Μεταγλώττισης](#4-οδηγίες-εγκατάστασηςμεταγλώττισης)
+5. [Οδηγίες Εκτέλεσης](#5-οδηγίες-εκτέλεσης)
+6. [Εγχειρίδιο Χρήσης](#6-εγχειρίδιο-χρήσης)
+7. [Αναφορές](#7-αναφορές)
 
 
 ---
@@ -151,4 +143,4 @@ gcc src/main.c src/map.c src/player.c src/order.c src/pathfinding.c src/traffic.
 
 1. **Χρήση LLM**
 
-1.  **Assets:** https://www.youtube.com/watch?v=wqIyAFchqB4, https://www.youtube.com/watch?v=CGsLkosT6HI&list=PL6blisFNtRKiwYn1Ab8DRDpVv4d6sJaCn, https://png.pngtree.com/png-vector/20230408/ourmid/pngtree-white-car-top-view-vector-png-image_6681668.png, https://www.pngfind.com/mpng/hhwwbiR_indian-pharmacist-identification-mark-cross-hd-png-download/, 
+1.  **Assets:** https://www.youtube.com/watch?v=wqIyAFchqB4, https://www.youtube.com/watch?v=CGsLkosT6HI&list=PL6blisFNtRKiwYn1Ab8DRDpVv4d6sJaCn, https://png.pngtree.com/png-vector/20230408/ourmid/pngtree-white-car-top-view-vector-png-image_6681668.png, https://www.pngfind.com/mpng/hhwwbiR_indian-pharmacist-identification-mark-cross-hd-png-download/
