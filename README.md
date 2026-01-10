@@ -138,7 +138,7 @@ gcc src/main.c src/map.c src/player.c src/order.c src/pathfinding.c src/traffic.
 *  **Game Over:** Όταν το ποσό χρημάτων γίνει 0, το παιχνίδι τελειώνει.
 
   
-<a id="refrences"></a>
+<a id="references"></a>
 ### 7. ΑΝΑΦΟΡΕΣ
 
 1.  **Raylib Documentation:** [https://www.raylib.com/cheatsheet/cheatsheet.html](https://www.raylib.com/cheatsheet/cheatsheet.html)
