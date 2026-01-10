@@ -140,6 +140,7 @@ gcc src/main.c src/map.c src/player.c src/order.c src/pathfinding.c src/traffic.
 ### 8. ΑΝΑΦΟΡΕΣ
 
 1.  **Raylib Documentation:** [https://www.raylib.com/cheatsheet/cheatsheet.html](https://www.raylib.com/cheatsheet/cheatsheet.html)
+1. **Raylib Examples** https://www.raylib.com/examples.html
 
 1. **Χρήση LLM**
 
