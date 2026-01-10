@@ -83,7 +83,7 @@
 ## 4. ΟΔΗΓΙΕΣ ΕΓΚΑΤΑΣΤΑΣΗΣ/ΜΕΤΑΓΛΩΤΤΙΣΗΣ
 Για τη μεταγλώττιση του πηγαίου κώδικα σε εκτελέσιμο αρχείο, ακολουθήστε τα παρακάτω βήματα.
 
-1. Εγκαταστήστε το πακέτο Raylib από το [Github Releases Page](https://github.com/raysan5/raylib/releases) (συνήθως στο `C:\raylib`).
+1. Εγκαταστήστε το πακέτο Raylib από το [raylib.com](https://www.raylib.com/) (συνήθως στο `C:\raylib`).
 2. Ανοίξτε το τερματικό **w64devkit.exe** (βρίσκεται στο `C:\raylib\w64devkit`).
 3. Πηγαίνετε στη τοποθεσία του παιχνιδιού (π.χ. `cd C:/Users/YourName/Desktop/DeliveryMan`).
 4. Εκτελέστε την εξής εντολή:
