@@ -93,11 +93,11 @@ gcc src/main.c src/map.c src/player.c src/order.c src/pathfinding.c src/traffic.
   
 
 
-## 6. ΟΔΗΓΙΕΣ ΕΚΤΕΛΕΣΗΣ
+## 5. ΟΔΗΓΙΕΣ ΕΚΤΕΛΕΣΗΣ
 
 Εκτελέστε το αρχείο `DeliveryMan.exe`. 
 
-## 7. ΕΓΧΕΙΡΙΔΙΟ ΧΡΗΣΗΣ
+## 6. ΕΓΧΕΙΡΙΔΙΟ ΧΡΗΣΗΣ
 
   
 
@@ -137,7 +137,7 @@ gcc src/main.c src/map.c src/player.c src/order.c src/pathfinding.c src/traffic.
 
   
 
-### 8. ΑΝΑΦΟΡΕΣ
+### 7. ΑΝΑΦΟΡΕΣ
 
 1.  **Raylib Documentation:** [https://www.raylib.com/cheatsheet/cheatsheet.html](https://www.raylib.com/cheatsheet/cheatsheet.html)
 1. **Raylib Examples** https://www.raylib.com/examples.html
