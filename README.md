@@ -83,7 +83,7 @@
 
 *  **Βιβλιοθήκη Γραφικών/Ήχου:** Raylib 5.5.
 
-*  **Εργαλεία Επεξεργασίας Κώδικα:** VS Code / Notepad++.
+*  **Εργαλεία Επεξεργασίας Κώδικα:** VS Code
 
   
 
@@ -149,6 +149,6 @@ gcc src/main.c src/map.c src/player.c src/order.c src/pathfinding.c src/traffic.
 
 1.  **Raylib Documentation:** [https://www.raylib.com/cheatsheet/cheatsheet.html](https://www.raylib.com/cheatsheet/cheatsheet.html)
 
-1. **Χρήση LLM
+1. **Χρήση LLM**
 
 1.  **Assets:** https://www.youtube.com/watch?v=wqIyAFchqB4, https://www.youtube.com/watch?v=CGsLkosT6HI&list=PL6blisFNtRKiwYn1Ab8DRDpVv4d6sJaCn, https://png.pngtree.com/png-vector/20230408/ourmid/pngtree-white-car-top-view-vector-png-image_6681668.png, https://www.pngfind.com/mpng/hhwwbiR_indian-pharmacist-identification-mark-cross-hd-png-download/, 
