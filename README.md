@@ -16,7 +16,7 @@
 
 *  **Ακαδημαϊκό Έτος:** 2025-2026
 
-*  **Τμήμα:** Ηλεκτρολόγων Μηχανικών και Μηχνικών Υπολογιστών
+*  **Τμήμα:** Ηλεκτρολόγων Μηχανικών και Μηχανικών Υπολογιστών
 
 *  **Σχολή:** Πολυτεχνική Σχολή
 
@@ -80,13 +80,13 @@
 
   
 <a id="install"></a>
-## 4. ΟΔΗΓΙΕΣ ΕΓΚΑΤΑΣΤΑΣΗΣ/ΜΕΤΑΓΛΩΤΤΙΣΗΣ
+## 4. ΟΔΗΓΙΕΣ ΕΓΚΑΤΑΣΤΑΣΗΣ/ΜΕΤΑΓΛΩΤΤΙΣΗΣ (Σε περιβάλλον Windows)
 Για τη μεταγλώττιση του πηγαίου κώδικα σε εκτελέσιμο αρχείο, ακολουθήστε τα παρακάτω βήματα.
 
 1. Εγκαταστήστε το πακέτο Raylib από το [raylib.com](https://www.raylib.com/) (συνήθως στο `C:\raylib`).
 2. Ανοίξτε το τερματικό **w64devkit.exe** (βρίσκεται στο `C:\raylib\w64devkit`).
-3. Πηγαίνετε στη τοποθεσία του παιχνιδιού (π.χ. `cd C:/Users/YourName/Desktop/DeliveryMan`).
-4. Εκτελέστε την εξής εντολή:
+3. Μεταβείτε στον φάκελο στον οποίο έχετε αποσυμπιέσει τα αρχεία του παιχνιδιού (π.χ. `cd C:/Users/YourName/Desktop/DeliveryMan`).
+4. Εκτελέστε την ακόλουθη εντολή:
 
 ```bash
 gcc src/main.c src/map.c src/player.c src/order.c src/pathfinding.c src/traffic.c -o DeliveryMan.exe -O2 -Wall -I C:/raylib/raylib/src -L C:/raylib/raylib/src -lraylib -lopengl32 -lgdi32 -lwinmm
@@ -144,6 +144,6 @@ gcc src/main.c src/map.c src/player.c src/order.c src/pathfinding.c src/traffic.
 1.  **Raylib Documentation:** [https://www.raylib.com/cheatsheet/cheatsheet.html](https://www.raylib.com/cheatsheet/cheatsheet.html)
 1. **Raylib Examples** https://www.raylib.com/examples.html
 
-1. **Χρήση LLM**
+1. **Χρήση LLM** (Google Gemini) για την ανάπτυξη του αλγορίθμου pathfinding, για επεξήγηση συναρτήσεων της βιβλιοθήκης raylib, και για debugging.
 
 1.  **Assets:** https://www.youtube.com/watch?v=wqIyAFchqB4, https://www.youtube.com/watch?v=CGsLkosT6HI&list=PL6blisFNtRKiwYn1Ab8DRDpVv4d6sJaCn, https://png.pngtree.com/png-vector/20230408/ourmid/pngtree-white-car-top-view-vector-png-image_6681668.png, https://www.pngfind.com/mpng/hhwwbiR_indian-pharmacist-identification-mark-cross-hd-png-download/
